@@ -1,0 +1,20 @@
+{
+  "name": "dt-store",
+  "version": "0.1.0",
+  "description": "a generic data store modelled after rxjs and react-redux",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "Denis Tsoi <denistsoi@gmail.com> (https://github.com/denistsoi)",
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
