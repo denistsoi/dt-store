@@ -1,6 +1,6 @@
 {
   "name": "dt-store",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a generic data store modelled after rxjs and react-redux",
   "main": "index.js",
   "directories": {
